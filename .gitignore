@@ -1,0 +1,16 @@
+# C
+**.o
+**.out
+
+# Python
+**/.venv/
+
+# Other
+**.vscode
+**.dat
+
+# LaTeX
+**.aux
+**.log
+**.out
+**.synctex.gz
