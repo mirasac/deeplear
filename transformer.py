@@ -11,6 +11,30 @@ import torch
 import torch.nn as nn
 
 
+class Encoder(nn.Module):
+    pass
+
+
+class EncoderLayer(nn.Module):
+    pass
+
+
+class Decoder(nn.Module):
+    pass
+
+
+class DecoderLayer(nn.Module):
+    pass
+
+
+class MultiHeadAttention(nn.Module):
+    pass
+
+
+class FeedForward(nn.Module):
+    pass
+
+
 class InputEmbedding(nn.Module):
     pass
 
@@ -19,39 +43,15 @@ class PositionalEncoding(nn.Module):
     pass
 
 
-class LayerNormalization(nn.Module):
-    pass
-
-
-class FeedForwardBlock(nn.Module):
-    pass
-
-
-class MultiHeadAttention(nn.Module):
-    pass
-
-
 class ResidualConnection(nn.Module):
     pass
 
 
-class EncoderBlock(nn.Module):
+class LayerNormalization(nn.Module):
     pass
 
 
-class Encoder(nn.Module):
-    pass
-
-
-class DecoderBlock(nn.Module):
-    pass
-
-
-class Decoder(nn.Module):
-    pass
-
-
-class ProjectionLayer(nn.Module):
+class Linear(nn.Module):
     pass
 
 
