@@ -11,6 +11,10 @@ import torch
 import torch.nn as nn
 
 
+class InputEmbedding(nn.Module):
+    pass
+
+
 class PositionalEncoding(nn.Module):
     pass
 
