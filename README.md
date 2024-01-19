@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains source code and material produced for the exam of the course Deep Learning, attended in the second semester of the academic year 2022-2023 of master's degree in Physics of Complex Systems at the University of Turin.
+This repository contains source code and material produced for the exam of the course Deep Learning, attended in the second semester of the academic year 2022-2023 of master's degree in Physics of Complex Systems at the University of Turin. Content of the repository at the time of the exam is pointed by tag `exam`.
 
 The course is teached by prof. Matteo Osella.
 
